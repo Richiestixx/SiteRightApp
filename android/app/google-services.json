@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1036841464071",
+    "project_id": "siterightapp",
+    "storage_bucket": "siterightapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036841464071:android:753751307103d38df315a2",
+        "android_client_info": {
+          "package_name": "com.siterightapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByFkOWrBvBm6sL2-iu3cIuv7VY-EEZe1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
